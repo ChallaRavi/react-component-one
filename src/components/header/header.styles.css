@@ -1,0 +1,9 @@
+.header {
+  background: #0ccac4;
+  box-shadow:  5px 5px 5px rgba(68, 68, 68, 0.6);
+  text-transform: uppercase;
+  color:#fff;
+  padding: 10px 16px;
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+}
